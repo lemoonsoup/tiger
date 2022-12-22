@@ -1,0 +1,71 @@
+p {
+  background-color: #be883d;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: 'Neuton', serif;;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+h3 {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+h4 {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+h5 {
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+a {
+  color: black;
+  font-weight: 900;
+  text-decoration: none;
+  font-family: 'Neuton', serif;
+  text-align: center;
+}
+
+header {
+  font-size: 3rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+body {
+  background-color: #be883d;
+  color: white;
+  font-family: 'Eczar', serif;
+  text-align: center;
+}
+
+#gallery {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+ul {
+ list-style-position: inside;
+ text-align: center;
+}
+
+footer {
+ text-align: center;
+}
